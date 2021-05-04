@@ -20,7 +20,6 @@ class IveaSMS {
             to = standardPhoneNumberArray(to);
         }
         const url = this.url + `&method=SendSMS&type=${type}&to=${to}&from=${number}&text=${encodeURI(text)}`;
-        console.log(url);
         const data = await axios.get(url);
         return data.data;
     }
