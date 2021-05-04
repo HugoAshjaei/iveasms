@@ -1,6 +1,6 @@
 # Ivea SMS client
 
-This library is created in purpose of working with Ivea SMS Webservice within the Node.js Applications.
+This library is created in purpose of working with [Ivea SMS](https://iveasms.ir/) Webservice within the Node.js Applications.
 
 ### Installation
 
