@@ -1,6 +1,6 @@
 {
   "name": "iveasms",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This library is created in purpose of working with Ivea SMS Webservice within the Node.js Applications.",
   "main": "index.js",
   "scripts": {
