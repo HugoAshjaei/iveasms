@@ -1,0 +1,27 @@
+{
+  "name": "iveasms",
+  "version": "1.0.0",
+  "description": "This library is created in purpose of working with Ivea SMS Webservice within the Node.js Applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HosseinDotLink/iveasms.git"
+  },
+  "keywords": [
+    "sms",
+    "ivea",
+    "iveasms"
+  ],
+  "author": "Hossein MohammadiPour",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HosseinDotLink/iveasms/issues"
+  },
+  "homepage": "https://github.com/HosseinDotLink/iveasms#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
