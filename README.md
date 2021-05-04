@@ -4,7 +4,9 @@ This library is created in purpose of working with [Ivea SMS](https://iveasms.ir
 
 ### Installation
 
-`npm install iveasms --save`
+```
+npm install iveasms --save
+```
 
 ### Usage
 
