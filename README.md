@@ -16,7 +16,7 @@ const client = new IveaSMS(username, password);
 const options = {
     type: '0', // optional, for flash messaging pass '1' or 'flash',  || should be an array on multi manual method
     number: '+985000XXX', // optional for public numbers || should be an array on multi manual method
-    to: '09123456789' || ['09123456789', '+989987654321', '9112223344']
+    to: '091********' || ['091********', '+9891********', '91********']
 }
 client.getCredit().then(function(value) {
     console.log(value);
